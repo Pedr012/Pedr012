@@ -10,8 +10,10 @@ Meu nome é Pedro Henrique! Deixa eu falar um pouco de mim:
 📫 Contato: 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-#00008B?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-b26165185/)](https://www.linkedin.com/in/pedro-henrique-b26165185/) 
-[![Gmail Badge](https://img.shields.io/badge/-pedrohrrf17@gmail.com-#00008B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrohrrf17@gmail.com)](mailto:diego.schell.f@gmail.com)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-b26165185/)](https://www.linkedin.com/in/pedro-henrique-b26165185/) 
+[![Gmail Badge](https://img.shields.io/badge/-pedrohrrf17@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrohrrf17@gmail.com)](mailto:diego.schell.f@gmail.com)
 
 Obrigado pela visita!! o/
 
