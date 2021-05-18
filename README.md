@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Pedr012
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá 👋
+Meu nome é Pedro Henrique! Deixa eu falar um pouco de mim:
+
+🌱 Estou aprendendo atualmente Angular, Spring Boot, Node e Cloud.
+
+👯 Atualmente buscando um emprego na área de T.I.
+
+💬 Pode me perguntar sobre Java e Cloud.
+
+📫 Contato: 
+
+Obrigado pela visita!! o/
 
 <!---
 Pedr012/Pedr012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
