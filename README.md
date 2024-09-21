@@ -3,9 +3,9 @@ Meu nome é Pedro Henrique! Deixa eu falar um pouco de mim:
 
 🌱 Estou aprendendo atualmente Angular, Spring Boot, Node e Cloud.
 
-👯 Atualmente buscando um emprego na área de T.I.
+👯 Atualmente atuando como Analista de Qualidade de Dados & Indicadores na F1rst
 
-💬 Se tiver dúvidas posso te ajudar com Java e Google Cloud.
+💬 Se tiver dúvidas posso te ajudar com SQL, Power BI, Azure e Python.
 
 📫 Contato: 
 
