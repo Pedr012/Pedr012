@@ -1,7 +1,7 @@
 Olá 👋
 Meu nome é Pedro Farias! Deixa eu falar um pouco de mim:
 
-🌱 Estou aprendendo atualmente Angular, Spring Boot, Node e Cloud.
+🌱 Estou aprendendo atualmente Python e PySpark.
 
 👯 Atualmente atuando como Analista de Qualidade de Dados & Indicadores na F1rst
 
