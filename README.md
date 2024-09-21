@@ -1,5 +1,5 @@
 Olá 👋
-Meu nome é Pedro Henrique! Deixa eu falar um pouco de mim:
+Meu nome é Pedro Farias! Deixa eu falar um pouco de mim:
 
 🌱 Estou aprendendo atualmente Angular, Spring Boot, Node e Cloud.
 
